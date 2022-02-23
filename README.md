@@ -18,7 +18,7 @@
 
 ![Bouni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bouni&show_icons=true&theme=react)
 
-![Bouni's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bouni&theme=react)
+![Bouni's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bouni&theme=react&layout=compact)
 
 ## Support me :coffee:
 
