@@ -3,14 +3,18 @@
 ## Top projects :star_struck:
 
 <a href="https://github.com/bouni/kicad-jlcpcb-tools">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bouni&repo=kicad-jlcpcb-tools&theme=gruvbox" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bouni&repo=kicad-jlcpcb-tools&theme=react" />
+</a> <a href="https://github.com/bouni/max-cube-protocol">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bouni&repo=max-cube-protocol&theme=react" />
+</a> <a href="https://github.com/bouni/matedealer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bouni&matedealer&theme=react" />
 </a>
 
 ## My stats :rocket:
 
-![Bouni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bouni&show_icons=true&theme=gruvbox)
+![Bouni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bouni&show_icons=true&theme=react)
 
-![Bouni's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bouni&theme=gruvbox)
+![Bouni's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bouni&theme=react)
 
 ## Support me :coffee:
 
