@@ -11,7 +11,7 @@
 </a> <a href="https://github.com/bouni/max-cube-protocol">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin?username=bouni&repo=max-cube-protocol&theme=react" />
 </a> <a href="https://github.com/bouni/matedealer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin?username=bouni&matedealer&theme=react" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin?username=bouni&repo=matedealer&theme=react" />
 </a>
 
 ## My stats :rocket:
