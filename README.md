@@ -1,5 +1,9 @@
 ### Hi there 👋 I'm bouni
 
+[![Visits Badge](https://badges.pufler.dev/visits/bouni/bouni)]()
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/bouni2016)
+
+
 ## Top projects :star_struck:
 
 <a href="https://github.com/bouni/kicad-jlcpcb-tools">
