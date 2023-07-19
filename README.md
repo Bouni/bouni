@@ -1,8 +1,10 @@
 ### Hi there 👋 I'm bouni
 
 [![Visits Badge](https://badges.pufler.dev/visits/bouni/bouni)]()
+![GitHub User's stars](https://img.shields.io/github/stars/bouni?logo=github)
+![GitHub followers](https://img.shields.io/github/followers/bouni?logo=github)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/bouni2016)
-
+[![Mastodon Badge](https://img.shields.io/badge/Mastodon-Profile-informational?style=flat&logo=mastodon&logoColor=white&color=595aff)](https://social.tchncs.de/@bouni)
 
 ## Top projects :star_struck:
 
